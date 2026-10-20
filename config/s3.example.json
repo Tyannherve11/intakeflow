@@ -1,0 +1,11 @@
+{
+  "identities": [
+    {
+      "name": "intakeflow",
+      "credentials": [
+        { "accessKey": "change_me", "secretKey": "change_me" }
+      ],
+      "actions": ["Admin", "Read", "Write", "List", "Tagging"]
+    }
+  ]
+}
