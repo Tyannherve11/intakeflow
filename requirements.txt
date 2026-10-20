@@ -4,3 +4,6 @@ boto3
 python-dotenv
 pdfplumber
 psycopg[binary]
+prefect
+prefect
+prefect

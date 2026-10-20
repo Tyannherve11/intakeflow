@@ -2,6 +2,7 @@ import json
 import os
 from datetime import date
 from pathlib import Path
+from typing import LiteralString, cast
 
 import psycopg
 from dotenv import load_dotenv
@@ -53,15 +54,18 @@ def expected_status(truth: dict) -> str:
     return "valid"
 
 
-def main() -> None:
-    extracted = json.loads(Path("data/extracted.json").read_text(encoding="utf-8"))
-    truth = json.loads(Path("data/samples/labels.json").read_text(encoding="utf-8"))
-
+def process(extracted: dict) -> dict:
+    """Valide, détecte les doublons, écrit en base. Retourne {fichier: statut}."""
     seen = {}
     decisions = {}
 
+    # schema.sql est un fichier du projet (de confiance) : cast pour le vérificateur de types
+    schema_sql = cast(
+        LiteralString, Path("src/schema.sql").read_text(encoding="utf-8-sig")
+    )
+
     with connect() as conn:
-        conn.execute(Path("src/schema.sql").read_text(encoding="utf-8-sig"))
+        conn.execute(schema_sql)
 
         for source_key in sorted(extracted):
             rec = extracted[source_key]
@@ -117,6 +121,16 @@ def main() -> None:
                 (source_key, f"validated:{status}", Jsonb({"issues": issues})),
             )
 
+    return decisions
+
+
+def main() -> None:
+    extracted = json.loads(Path("data/extracted.json").read_text(encoding="utf-8"))
+    truth = json.loads(Path("data/samples/labels.json").read_text(encoding="utf-8"))
+
+    decisions = process(extracted)
+
+    with connect() as conn:
         counts = conn.execute(
             "SELECT status, COUNT(*) FROM claims GROUP BY status ORDER BY status"
         ).fetchall()

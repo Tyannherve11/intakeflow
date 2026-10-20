@@ -66,19 +66,24 @@ def list_keys() -> list:
     return sorted(keys)
 
 
-def main() -> None:
-    truth = json.loads(Path("data/samples/labels.json").read_text())
+def extract_all() -> dict:
+    """Lit tous les PDF du bucket et retourne {nom_du_fichier: champs extraits}."""
     extracted = {}
-    start = time.perf_counter()
     for key in list_keys():
         body = s3.get_object(Bucket=BUCKET, Key=key)["Body"].read()
         extracted[key] = extract_pdf(body)
+    return extracted
+
+
+def main() -> None:
+    truth = json.loads(Path("data/samples/labels.json").read_text())
+    start = time.perf_counter()
+    extracted = extract_all()
     elapsed = time.perf_counter() - start
 
     Path("data").mkdir(exist_ok=True)
     Path("data/extracted.json").write_text(json.dumps(extracted, indent=2))
 
-    # Comparaison avec la vérité terrain (claim_0001.pdf <-> truth[0], etc.)
     correct = {k: 0 for k in FIELDS}
     errors = []
     for idx, expected in enumerate(truth):
