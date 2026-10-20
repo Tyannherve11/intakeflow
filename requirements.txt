@@ -3,3 +3,4 @@ reportlab
 boto3
 python-dotenv
 pdfplumber
+psycopg[binary]
