@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-ENDPOINT = os.getenv("S3_ENDPOINT", "http://localhost:8333")
+ENDPOINT = os.getenv("S3_ENDPOINT", "http://127.0.0.1:8333")
 BUCKET = os.getenv("S3_BUCKET", "incoming")
 
 s3 = boto3.client(

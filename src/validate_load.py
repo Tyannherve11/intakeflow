@@ -15,7 +15,7 @@ REQUIRED = ["employee_name", "employee_id", "date", "amount"]
 
 def connect():
     return psycopg.connect(
-        host=os.getenv("POSTGRES_HOST", "localhost"),
+        host=os.getenv("POSTGRES_HOST", "127.0.0.1"),
         port=int(os.getenv("POSTGRES_PORT", "5432")),
         dbname=os.environ["POSTGRES_DB"],
         user=os.environ["POSTGRES_USER"],
