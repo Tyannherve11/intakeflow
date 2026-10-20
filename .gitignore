@@ -4,3 +4,4 @@ __pycache__/
 data/samples/*.pdf
 config/s3.json
 *.pem
+data/extracted.json

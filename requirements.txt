@@ -2,3 +2,4 @@ faker
 reportlab
 boto3
 python-dotenv
+pdfplumber
