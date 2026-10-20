@@ -1,0 +1,1057 @@
+[
+  {
+    "claim_id": "RC-2026-0001",
+    "employee_name": "Allison Hill",
+    "employee_id": "E39256",
+    "department": "Finance",
+    "date": "2026-08-03",
+    "category": "Travel",
+    "amount": 1338.67,
+    "description": "Quality throughout beautiful instead ahead."
+  },
+  {
+    "claim_id": "RC-2026-0002",
+    "employee_name": "Jonathan Johnson",
+    "employee_id": "E36062",
+    "department": "IT",
+    "date": "2026-09-28",
+    "category": "Travel",
+    "amount": 1222.91,
+    "description": "Information last everything thank serve civil institution everyone democratic shake."
+  },
+  {
+    "claim_id": "RC-2026-0003",
+    "employee_name": "James Howard",
+    "employee_id": null,
+    "department": "Finance",
+    "date": "2026-09-17",
+    "category": "Training",
+    "amount": 768.13,
+    "description": "Southern role movie win her need stop."
+  },
+  {
+    "claim_id": "RC-2026-0004",
+    "employee_name": "Shannon Ray",
+    "employee_id": "E19116",
+    "department": "IT",
+    "date": "2026-07-25",
+    "category": "Training",
+    "amount": 1089.6,
+    "description": "Significant world talk term herself law street."
+  },
+  {
+    "claim_id": "RC-2026-0005",
+    "employee_name": "Henry Santiago",
+    "employee_id": "E99593",
+    "department": "Operations",
+    "date": "2026-09-21",
+    "category": "Meals",
+    "amount": 816.84,
+    "description": "Participant commercial rock clear here."
+  },
+  {
+    "claim_id": "RC-2026-0006",
+    "employee_name": "Margaret Hawkins DDS",
+    "employee_id": "E17331",
+    "department": "Finance",
+    "date": "2026-08-12",
+    "category": "Meals",
+    "amount": 1261.18,
+    "description": "Source husband at tree note."
+  },
+  {
+    "claim_id": "RC-2026-0007",
+    "employee_name": "Christy Porter",
+    "employee_id": "E94259",
+    "department": "IT",
+    "date": "2026-09-03",
+    "category": "Meals",
+    "amount": 1723.63,
+    "description": "Enter east no enjoy once today."
+  },
+  {
+    "claim_id": "RC-2026-0008",
+    "employee_name": "Daniel Bright",
+    "employee_id": "E76784",
+    "department": "Finance",
+    "date": "2026-09-06",
+    "category": "Supplies",
+    "amount": 187.64,
+    "description": "Sense technology check civil quite."
+  },
+  {
+    "claim_id": "RC-2026-0009",
+    "employee_name": "Janice Carlson",
+    "employee_id": "E71348",
+    "department": "HR",
+    "date": "2026-09-10",
+    "category": "Travel",
+    "amount": 1317.57,
+    "description": "Wife team activity result race Mr environment."
+  },
+  {
+    "claim_id": "RC-2026-0010",
+    "employee_name": "Ashley Graham",
+    "employee_id": "E69470",
+    "department": "Operations",
+    "date": "2026-07-21",
+    "category": "Travel",
+    "amount": 1000.39,
+    "description": "Will seven medical blood personal success medical."
+  },
+  {
+    "claim_id": "RC-2026-0011",
+    "employee_name": "James Martin",
+    "employee_id": null,
+    "department": "HR",
+    "date": "2026-10-18",
+    "category": "Training",
+    "amount": 358.24,
+    "description": "Out major born guy."
+  },
+  {
+    "claim_id": "RC-2026-0012",
+    "employee_name": "Dr. Cynthia Allen",
+    "employee_id": "E84364",
+    "department": "HR",
+    "date": "2026-07-28",
+    "category": "Travel",
+    "amount": 1541.74,
+    "description": "Rule staff within mouth call."
+  },
+  {
+    "claim_id": "RC-2026-0013",
+    "employee_name": "Theresa Martin",
+    "employee_id": "E79163",
+    "department": "Operations",
+    "date": "2026-10-13",
+    "category": "Lodging",
+    "amount": 824.34,
+    "description": "Institution deep much role cut find yet practice just military."
+  },
+  {
+    "claim_id": "RC-2026-0014",
+    "employee_name": "Danny Morgan",
+    "employee_id": "E87110",
+    "department": "IT",
+    "date": "2026-09-12",
+    "category": "Lodging",
+    "amount": 649.16,
+    "description": "Open according remain arrive attack all form."
+  },
+  {
+    "claim_id": "RC-2026-0015",
+    "employee_name": "Diana Washington",
+    "employee_id": "E80678",
+    "department": "Finance",
+    "date": "2026-08-02",
+    "category": "Training",
+    "amount": 1148.44,
+    "description": "Office drug list imagine behind probably great in tell approach."
+  },
+  {
+    "claim_id": "RC-2026-0016",
+    "employee_name": "Maria Brown",
+    "employee_id": "E54473",
+    "department": "IT",
+    "date": "2026-10-06",
+    "category": "Meals",
+    "amount": 840.13,
+    "description": "Eat couple large instead everything."
+  },
+  {
+    "claim_id": "RC-2026-0017",
+    "employee_name": "Thomas Ramos",
+    "employee_id": "E82132",
+    "department": "IT",
+    "date": "2026-07-30",
+    "category": "Lodging",
+    "amount": 1519.49,
+    "description": "Present music address behavior send."
+  },
+  {
+    "claim_id": "RC-2026-0018",
+    "employee_name": "Jason Olson",
+    "employee_id": "E62565",
+    "department": "IT",
+    "date": "2026-10-16",
+    "category": "Travel",
+    "amount": 1452.01,
+    "description": "Clearly able hospital unit size."
+  },
+  {
+    "claim_id": "RC-2026-0019",
+    "employee_name": "Michael Cross",
+    "employee_id": "E82845",
+    "department": "Finance",
+    "date": "2026-09-23",
+    "category": "Meals",
+    "amount": 1644.95,
+    "description": "Choice father why often my security arm once me."
+  },
+  {
+    "claim_id": "RC-2026-0020",
+    "employee_name": "Brooke Yu",
+    "employee_id": "E20500",
+    "department": "HR",
+    "date": "2026-10-11",
+    "category": "Meals",
+    "amount": 1184.96,
+    "description": "Attention attack technology identify walk now."
+  },
+  {
+    "claim_id": "RC-2026-0021",
+    "employee_name": "Amanda Miller",
+    "employee_id": "E96163",
+    "department": "Operations",
+    "date": "2026-09-15",
+    "category": "Meals",
+    "amount": 487.81,
+    "description": "Mission various daughter respond draw how public feel first sell."
+  },
+  {
+    "claim_id": "RC-2026-0022",
+    "employee_name": "Jimmy Murillo",
+    "employee_id": "E23104",
+    "department": "HR",
+    "date": "2026-07-28",
+    "category": "Training",
+    "amount": 779.75,
+    "description": "Defense enter value thing these hard citizen street region particularly."
+  },
+  {
+    "claim_id": "RC-2026-0023",
+    "employee_name": "Miss Aimee Montoya",
+    "employee_id": "E49240",
+    "department": "HR",
+    "date": "2026-09-23",
+    "category": "Meals",
+    "amount": 1795.23,
+    "description": "Voice care break blood network."
+  },
+  {
+    "claim_id": "RC-2026-0024",
+    "employee_name": "Larry Robbins",
+    "employee_id": "E36685",
+    "department": "Operations",
+    "date": "2026-09-25",
+    "category": "Travel",
+    "amount": 1364.07,
+    "description": "Measure economy traditional anything plant stop analysis."
+  },
+  {
+    "claim_id": "RC-2026-0025",
+    "employee_name": "Carlos Whitney",
+    "employee_id": "E31178",
+    "department": "IT",
+    "date": "2026-09-30",
+    "category": "Meals",
+    "amount": 1428.86,
+    "description": "Necessary into act away third tough nation strong old."
+  },
+  {
+    "claim_id": "RC-2026-0026",
+    "employee_name": "Cameron Parker",
+    "employee_id": "E15229",
+    "department": "Finance",
+    "date": "2026-10-16",
+    "category": "Supplies",
+    "amount": 696.19,
+    "description": "Decide economic bill sister this image per choice."
+  },
+  {
+    "claim_id": "RC-2026-0027",
+    "employee_name": null,
+    "employee_id": "E33206",
+    "department": "HR",
+    "date": "2026-10-14",
+    "category": "Training",
+    "amount": 1551.49,
+    "description": "Agent say forward us soon ten specific environment."
+  },
+  {
+    "claim_id": "RC-2026-0028",
+    "employee_name": "Ashley Brennan",
+    "employee_id": "E71694",
+    "department": "HR",
+    "date": "2026-08-11",
+    "category": "Lodging",
+    "amount": 214.12,
+    "description": "Staff least figure somebody dinner age."
+  },
+  {
+    "claim_id": "RC-2026-0029",
+    "employee_name": "Garrett Lin",
+    "employee_id": "E46585",
+    "department": "Operations",
+    "date": "2026-08-24",
+    "category": "Travel",
+    "amount": 1717.56,
+    "description": "Hundred wonder movie voice boy wife condition while enter board."
+  },
+  {
+    "claim_id": "RC-2026-0030",
+    "employee_name": "Nicholas Edwards",
+    "employee_id": "E89457",
+    "department": "HR",
+    "date": "2026-09-08",
+    "category": "Training",
+    "amount": 1375.1,
+    "description": "History office effort remember ability."
+  },
+  {
+    "claim_id": "RC-2026-0031",
+    "employee_name": "Kimberly Ball",
+    "employee_id": "E97900",
+    "department": "Finance",
+    "date": "2026-08-09",
+    "category": "Lodging",
+    "amount": 1517.38,
+    "description": "Issue we TV perhaps professional by tonight medical."
+  },
+  {
+    "claim_id": "RC-2026-0032",
+    "employee_name": "Erika Terry",
+    "employee_id": "E82667",
+    "department": "IT",
+    "date": "2026-08-02",
+    "category": "Meals",
+    "amount": 682.44,
+    "description": "Inside wait quality total past feeling."
+  },
+  {
+    "claim_id": "RC-2026-0033",
+    "employee_name": "April Mitchell",
+    "employee_id": "E66346",
+    "department": "Finance",
+    "date": null,
+    "category": "Training",
+    "amount": 593.62,
+    "description": "Parent focus kid put memory soldier where save probably exist."
+  },
+  {
+    "claim_id": "RC-2026-0034",
+    "employee_name": "Lisa Davis",
+    "employee_id": "E40784",
+    "department": "HR",
+    "date": "2026-09-24",
+    "category": "Meals",
+    "amount": 118.4,
+    "description": "Different current agency each little sure authority."
+  },
+  {
+    "claim_id": "RC-2026-0035",
+    "employee_name": "Mark Lee",
+    "employee_id": "E60328",
+    "department": "Finance",
+    "date": "2026-09-06",
+    "category": "Travel",
+    "amount": 1321.46,
+    "description": "During prevent accept seem show blood interesting compare."
+  },
+  {
+    "claim_id": "RC-2026-0036",
+    "employee_name": "Kelly Williams",
+    "employee_id": "E42662",
+    "department": "IT",
+    "date": "2026-10-18",
+    "category": "Meals",
+    "amount": 1192.66,
+    "description": "Lead soon property write other wear."
+  },
+  {
+    "claim_id": "RC-2026-0037",
+    "employee_name": "Lisa Ball",
+    "employee_id": "E76162",
+    "department": "IT",
+    "date": "2026-08-31",
+    "category": "Lodging",
+    "amount": 956.9,
+    "description": "Knowledge city technology late seem style everyone sing machine dream."
+  },
+  {
+    "claim_id": "RC-2026-0038",
+    "employee_name": "Micheal Young",
+    "employee_id": "E54020",
+    "department": "IT",
+    "date": "2026-08-21",
+    "category": "Training",
+    "amount": 1363.15,
+    "description": "Ball character him check degree increase former letter artist strategy."
+  },
+  {
+    "claim_id": "RC-2026-0039",
+    "employee_name": "Randy Shah",
+    "employee_id": "E12560",
+    "department": "HR",
+    "date": "2026-10-12",
+    "category": "Supplies",
+    "amount": 1791.34,
+    "description": "Herself accept goal send table well industry section national owner."
+  },
+  {
+    "claim_id": "RC-2026-0040",
+    "employee_name": "Daniel Graham",
+    "employee_id": "E13804",
+    "department": "Operations",
+    "date": "2026-08-27",
+    "category": "Training",
+    "amount": 820.9,
+    "description": "Protect something right subject try wonder move trade."
+  },
+  {
+    "claim_id": "RC-2026-0041",
+    "employee_name": "Mary Miller",
+    "employee_id": "E66179",
+    "department": "Finance",
+    "date": "2026-08-03",
+    "category": "Lodging",
+    "amount": 52.55,
+    "description": "Consider employee force lawyer front they everything week instead."
+  },
+  {
+    "claim_id": "RC-2026-0042",
+    "employee_name": "Julie Curry",
+    "employee_id": "E16826",
+    "department": "IT",
+    "date": "2026-08-23",
+    "category": "Travel",
+    "amount": 141.72,
+    "description": "Practice sit prepare senior wear current after."
+  },
+  {
+    "claim_id": "RC-2026-0043",
+    "employee_name": "Cameron Caldwell",
+    "employee_id": "E83920",
+    "department": "IT",
+    "date": "2026-08-11",
+    "category": "Travel",
+    "amount": 1631.17,
+    "description": "Record short cold parent security boy standard who blue."
+  },
+  {
+    "claim_id": "RC-2026-0044",
+    "employee_name": "Eric Byrd",
+    "employee_id": "E59192",
+    "department": "Finance",
+    "date": "2026-08-28",
+    "category": "Training",
+    "amount": 439.84,
+    "description": "Away real physical big significant sure."
+  },
+  {
+    "claim_id": "RC-2026-0045",
+    "employee_name": "Barbara Riggs",
+    "employee_id": "E15383",
+    "department": "IT",
+    "date": "2026-08-23",
+    "category": "Training",
+    "amount": 251.18,
+    "description": "Into have media game support state black whether player stock."
+  },
+  {
+    "claim_id": "RC-2026-0046",
+    "employee_name": "Jessica Gross",
+    "employee_id": "E95256",
+    "department": "Operations",
+    "date": "2026-08-16",
+    "category": "Meals",
+    "amount": 1415.55,
+    "description": "Space Mrs low itself room environmental system store beautiful think during."
+  },
+  {
+    "claim_id": "RC-2026-0047",
+    "employee_name": "Leonard Gray",
+    "employee_id": "E13761",
+    "department": "IT",
+    "date": "2026-09-06",
+    "category": "Travel",
+    "amount": 188.02,
+    "description": "Consider deep something future they red everybody act."
+  },
+  {
+    "claim_id": "RC-2026-0048",
+    "employee_name": "Angela Cortez",
+    "employee_id": "E74038",
+    "department": "Operations",
+    "date": "2026-09-12",
+    "category": "Supplies",
+    "amount": 848.64,
+    "description": "Real position make society behavior develop reality."
+  },
+  {
+    "claim_id": "RC-2026-0049",
+    "employee_name": "Kevin Kennedy",
+    "employee_id": "E79588",
+    "department": "Finance",
+    "date": "2026-08-23",
+    "category": "Travel",
+    "amount": 733.68,
+    "description": "You nearly goal law fill discover return firm sea."
+  },
+  {
+    "claim_id": "RC-2026-0050",
+    "employee_name": "Melissa Lee",
+    "employee_id": "E73464",
+    "department": "Finance",
+    "date": "2026-08-16",
+    "category": "Meals",
+    "amount": 356.99,
+    "description": "With modern executive beyond create dinner conference add move ever."
+  },
+  {
+    "claim_id": "RC-2026-0051",
+    "employee_name": "Kristen Terry",
+    "employee_id": "E26551",
+    "department": "IT",
+    "date": "2026-09-20",
+    "category": "Supplies",
+    "amount": 342.53,
+    "description": "Bill activity expect long future whole education technology box."
+  },
+  {
+    "claim_id": "RC-2026-0052",
+    "employee_name": "John Ray",
+    "employee_id": "E99974",
+    "department": "Finance",
+    "date": "2026-07-26",
+    "category": "Supplies",
+    "amount": 1457.32,
+    "description": "Chance none fight yes budget share."
+  },
+  {
+    "claim_id": "RC-2026-0053",
+    "employee_name": "Rachel Perez",
+    "employee_id": "E78494",
+    "department": "Finance",
+    "date": "2026-08-26",
+    "category": "Travel",
+    "amount": 1179.08,
+    "description": "Training father open investment notice art whether between several."
+  },
+  {
+    "claim_id": "RC-2026-0054",
+    "employee_name": "Deborah Miller",
+    "employee_id": "E41439",
+    "department": "Finance",
+    "date": "2026-08-06",
+    "category": "Travel",
+    "amount": 1668.57,
+    "description": "Avoid able late order fact discuss religious reflect law reach."
+  },
+  {
+    "claim_id": "RC-2026-0055",
+    "employee_name": "Rachel Weber",
+    "employee_id": "E96662",
+    "department": "IT",
+    "date": "2026-10-07",
+    "category": "Supplies",
+    "amount": 881.87,
+    "description": "Interesting name positive training step author."
+  },
+  {
+    "claim_id": "RC-2026-0056",
+    "employee_name": "Eric Curry",
+    "employee_id": "E84607",
+    "department": "Operations",
+    "date": "2026-10-18",
+    "category": "Travel",
+    "amount": null,
+    "description": "Keep light fight I evening music just."
+  },
+  {
+    "claim_id": "RC-2026-0057",
+    "employee_name": "Stacy Navarro",
+    "employee_id": "E89129",
+    "department": "HR",
+    "date": "2026-08-14",
+    "category": "Supplies",
+    "amount": 524.17,
+    "description": "Before while structure offer week."
+  },
+  {
+    "claim_id": "RC-2026-0058",
+    "employee_name": "Miss Debra Williams PhD",
+    "employee_id": "E71669",
+    "department": "Operations",
+    "date": "2026-09-09",
+    "category": "Meals",
+    "amount": 353.97,
+    "description": "Trouble consider one play man before girl four prove."
+  },
+  {
+    "claim_id": "RC-2026-0059",
+    "employee_name": "Erin Steele",
+    "employee_id": "E47777",
+    "department": "Finance",
+    "date": null,
+    "category": "Training",
+    "amount": 1328.29,
+    "description": "Spend nearly lawyer fire follow wife identify method."
+  },
+  {
+    "claim_id": "RC-2026-0060",
+    "employee_name": "Mary Daniels MD",
+    "employee_id": "E34586",
+    "department": "Finance",
+    "date": "2026-09-09",
+    "category": "Travel",
+    "amount": 1057.76,
+    "description": "Performance material kind appear environment capital explain thing."
+  },
+  {
+    "claim_id": "RC-2026-0061",
+    "employee_name": "Mr. Mark Lloyd",
+    "employee_id": null,
+    "department": "IT",
+    "date": "2026-08-20",
+    "category": "Travel",
+    "amount": 1729.99,
+    "description": "Add impact different success box water positive child usually factor."
+  },
+  {
+    "claim_id": "RC-2026-0062",
+    "employee_name": "Jennifer Olson",
+    "employee_id": "E71894",
+    "department": "Finance",
+    "date": "2026-08-13",
+    "category": "Training",
+    "amount": 136.31,
+    "description": "Necessary himself two meet these tell everybody so increase."
+  },
+  {
+    "claim_id": "RC-2026-0063",
+    "employee_name": "Katie Hoover",
+    "employee_id": "E47072",
+    "department": "Operations",
+    "date": "2026-09-29",
+    "category": "Travel",
+    "amount": 1695.75,
+    "description": "Study oil process tend land machine forward."
+  },
+  {
+    "claim_id": "RC-2026-0064",
+    "employee_name": "Jamie Cantu",
+    "employee_id": "E34727",
+    "department": "Finance",
+    "date": "2026-09-26",
+    "category": "Training",
+    "amount": 161.34,
+    "description": "Occur do simply analysis seat relate specific."
+  },
+  {
+    "claim_id": "RC-2026-0065",
+    "employee_name": "Matthew Hoover",
+    "employee_id": "E29936",
+    "department": "HR",
+    "date": "2026-09-07",
+    "category": "Lodging",
+    "amount": 379.6,
+    "description": "Call whole forward beyond suddenly."
+  },
+  {
+    "claim_id": "RC-2026-0066",
+    "employee_name": "Thomas Smith",
+    "employee_id": "E28894",
+    "department": "IT",
+    "date": "2026-08-29",
+    "category": "Lodging",
+    "amount": 721.48,
+    "description": "Avoid sit enter perhaps however bag."
+  },
+  {
+    "claim_id": "RC-2026-0067",
+    "employee_name": "Michael Ferguson",
+    "employee_id": "E51505",
+    "department": "HR",
+    "date": "2026-09-19",
+    "category": "Supplies",
+    "amount": 579.38,
+    "description": "Their along attention piece TV young section its better."
+  },
+  {
+    "claim_id": "RC-2026-0068",
+    "employee_name": "Shelia Wallace",
+    "employee_id": "E49251",
+    "department": "Finance",
+    "date": "2026-10-16",
+    "category": "Travel",
+    "amount": 833.04,
+    "description": "Animal someone fall hear certainly."
+  },
+  {
+    "claim_id": "RC-2026-0069",
+    "employee_name": "Kylie Sparks",
+    "employee_id": "E32280",
+    "department": "Finance",
+    "date": "2026-08-06",
+    "category": "Travel",
+    "amount": 974.68,
+    "description": "Participant him raise marriage on."
+  },
+  {
+    "claim_id": "RC-2026-0070",
+    "employee_name": "Mark Stevens",
+    "employee_id": "E97404",
+    "department": "IT",
+    "date": "2026-07-21",
+    "category": "Lodging",
+    "amount": 1587.34,
+    "description": "Top quality citizen kid generation onto police interesting economic."
+  },
+  {
+    "claim_id": "RC-2026-0071",
+    "employee_name": "Christina Cruz",
+    "employee_id": "E73335",
+    "department": "HR",
+    "date": "2026-07-31",
+    "category": "Lodging",
+    "amount": 296.58,
+    "description": "High grow fast recognize against stop how."
+  },
+  {
+    "claim_id": "RC-2026-0072",
+    "employee_name": "Sean Osborne",
+    "employee_id": "E16428",
+    "department": "HR",
+    "date": "2026-10-17",
+    "category": "Training",
+    "amount": 1771.18,
+    "description": "Seat strategy total simply discover soon despite couple economy sense."
+  },
+  {
+    "claim_id": "RC-2026-0073",
+    "employee_name": "Melanie Taylor",
+    "employee_id": "E22735",
+    "department": "Finance",
+    "date": "2026-10-16",
+    "category": "Training",
+    "amount": 549.39,
+    "description": "Position final kid often run bed far section compare car much."
+  },
+  {
+    "claim_id": "RC-2026-0074",
+    "employee_name": "Kiara Mcintyre",
+    "employee_id": "E31567",
+    "department": "IT",
+    "date": "2026-08-14",
+    "category": "Lodging",
+    "amount": 221.04,
+    "description": "Whose far that sound life away senior difficult put."
+  },
+  {
+    "claim_id": "RC-2026-0075",
+    "employee_name": "Jennifer Singleton",
+    "employee_id": "E83048",
+    "department": "IT",
+    "date": "2026-08-25",
+    "category": "Lodging",
+    "amount": 517.93,
+    "description": "So add Mr lawyer pull."
+  },
+  {
+    "claim_id": "RC-2026-0076",
+    "employee_name": "Lauren Carson",
+    "employee_id": "E58689",
+    "department": "HR",
+    "date": "2026-07-31",
+    "category": "Meals",
+    "amount": 1242.18,
+    "description": "Likely people wall foreign particular positive play."
+  },
+  {
+    "claim_id": "RC-2026-0077",
+    "employee_name": "Michael Banks",
+    "employee_id": "E25292",
+    "department": "Operations",
+    "date": "2026-08-03",
+    "category": "Lodging",
+    "amount": 1631.03,
+    "description": "Watch fight manage best thought."
+  },
+  {
+    "claim_id": "RC-2026-0078",
+    "employee_name": "Jesse Santiago",
+    "employee_id": "E80804",
+    "department": "Finance",
+    "date": null,
+    "category": "Supplies",
+    "amount": 1495.39,
+    "description": "Score choice increase between majority impact week allow have kitchen."
+  },
+  {
+    "claim_id": "RC-2026-0079",
+    "employee_name": "Savannah Garcia",
+    "employee_id": "E99873",
+    "department": "IT",
+    "date": "2026-08-25",
+    "category": "Lodging",
+    "amount": 303.42,
+    "description": "Top population art every why we station begin deep police."
+  },
+  {
+    "claim_id": "RC-2026-0080",
+    "employee_name": "Amber Cook",
+    "employee_id": null,
+    "department": "Operations",
+    "date": "2026-10-05",
+    "category": "Training",
+    "amount": 32.26,
+    "description": "Day stop never only spend do similar small other everyone."
+  },
+  {
+    "claim_id": "RC-2026-0081",
+    "employee_name": "Dr. Kimberly Lindsey",
+    "employee_id": "E24408",
+    "department": "Finance",
+    "date": "2026-09-23",
+    "category": "Lodging",
+    "amount": 1054.78,
+    "description": "Capital group small open administration."
+  },
+  {
+    "claim_id": "RC-2026-0082",
+    "employee_name": "Cameron Fisher",
+    "employee_id": "E24896",
+    "department": "IT",
+    "date": "2026-10-01",
+    "category": "Travel",
+    "amount": 565.24,
+    "description": "Live sing message board mean."
+  },
+  {
+    "claim_id": "RC-2026-0083",
+    "employee_name": "Amanda Logan",
+    "employee_id": "E96363",
+    "department": "Finance",
+    "date": "2026-09-09",
+    "category": "Lodging",
+    "amount": 389.99,
+    "description": "Leader who article look husband rather make."
+  },
+  {
+    "claim_id": "RC-2026-0084",
+    "employee_name": "Angel Miller",
+    "employee_id": "E89730",
+    "department": "Finance",
+    "date": "2026-08-04",
+    "category": "Lodging",
+    "amount": 1407.51,
+    "description": "Call person one Republican herself."
+  },
+  {
+    "claim_id": "RC-2026-0085",
+    "employee_name": "Elizabeth Wagner",
+    "employee_id": "E66387",
+    "department": "Operations",
+    "date": "2026-07-30",
+    "category": "Training",
+    "amount": 1352.82,
+    "description": "Table prepare shoulder result Democrat."
+  },
+  {
+    "claim_id": "RC-2026-0086",
+    "employee_name": "Darryl Morgan",
+    "employee_id": "E69441",
+    "department": "IT",
+    "date": "2026-08-28",
+    "category": "Meals",
+    "amount": 1757.53,
+    "description": "Role fine fine effort well rather listen before be."
+  },
+  {
+    "claim_id": "RC-2026-0087",
+    "employee_name": "Patrick Watson",
+    "employee_id": "E27054",
+    "department": "Operations",
+    "date": "2026-09-13",
+    "category": "Travel",
+    "amount": 335.16,
+    "description": "Only no form business government."
+  },
+  {
+    "claim_id": "RC-2026-0088",
+    "employee_name": "Nicole Parrish",
+    "employee_id": "E16743",
+    "department": "Operations",
+    "date": "2026-08-17",
+    "category": "Meals",
+    "amount": 491.25,
+    "description": "Fine billion medical choice lot suggest glass news boy everything."
+  },
+  {
+    "claim_id": "RC-2026-0089",
+    "employee_name": "Jeffrey Hoffman",
+    "employee_id": "E91490",
+    "department": "Finance",
+    "date": "2026-09-18",
+    "category": "Supplies",
+    "amount": 1571.82,
+    "description": "Ago upon stop environment Congress reflect finally fund accept thank."
+  },
+  {
+    "claim_id": "RC-2026-0090",
+    "employee_name": "Jennifer Thomas",
+    "employee_id": "E92991",
+    "department": "IT",
+    "date": "2026-07-23",
+    "category": "Meals",
+    "amount": 1472.61,
+    "description": "Second Democrat information game have."
+  },
+  {
+    "claim_id": "RC-2026-0091",
+    "employee_name": "Paula Bradley",
+    "employee_id": "E21135",
+    "department": "HR",
+    "date": "2026-10-14",
+    "category": "Meals",
+    "amount": 412.92,
+    "description": "Choose senior anyone bank kitchen."
+  },
+  {
+    "claim_id": "RC-2026-0092",
+    "employee_name": "Lawrence Perry",
+    "employee_id": "E38255",
+    "department": "Operations",
+    "date": null,
+    "category": "Lodging",
+    "amount": 512.31,
+    "description": "Box involve exist question main project animal house out account."
+  },
+  {
+    "claim_id": "RC-2026-0093",
+    "employee_name": "Daniel Taylor",
+    "employee_id": "E43491",
+    "department": "HR",
+    "date": "2026-08-18",
+    "category": "Training",
+    "amount": 728.43,
+    "description": "Build market issue can mouth discover next property."
+  },
+  {
+    "claim_id": "RC-2026-0094",
+    "employee_name": "James Harmon",
+    "employee_id": "E67176",
+    "department": "HR",
+    "date": "2026-07-22",
+    "category": "Travel",
+    "amount": 220.89,
+    "description": "Tv television office of remember individual boy again foot."
+  },
+  {
+    "claim_id": "RC-2026-0095",
+    "employee_name": "Lisa Collier",
+    "employee_id": "E57428",
+    "department": "IT",
+    "date": "2026-07-29",
+    "category": "Training",
+    "amount": 1733.12,
+    "description": "Such during open model how financial fund four collection."
+  },
+  {
+    "claim_id": "RC-2026-0096",
+    "employee_name": "Ashley Hicks",
+    "employee_id": "E55793",
+    "department": "Finance",
+    "date": "2026-08-24",
+    "category": "Training",
+    "amount": 790.7,
+    "description": "Door chair culture own set pretty."
+  },
+  {
+    "claim_id": "RC-2026-0097",
+    "employee_name": "Raymond Snyder",
+    "employee_id": "E83889",
+    "department": "HR",
+    "date": "2026-10-02",
+    "category": "Supplies",
+    "amount": 1097.08,
+    "description": "Large under north play person ten physical character attention kind."
+  },
+  {
+    "claim_id": "RC-2026-0098",
+    "employee_name": "Donald Brown",
+    "employee_id": "E76497",
+    "department": "Operations",
+    "date": "2026-07-28",
+    "category": "Training",
+    "amount": null,
+    "description": "Left also hard expert popular within bed."
+  },
+  {
+    "claim_id": "RC-2026-0099",
+    "employee_name": "Janice Carpenter",
+    "employee_id": "E15376",
+    "department": "Finance",
+    "date": "2026-09-02",
+    "category": "Training",
+    "amount": 1667.15,
+    "description": "Prepare focus little character artist billion tonight gas research mean."
+  },
+  {
+    "claim_id": "RC-2026-0100",
+    "employee_name": "David Kim",
+    "employee_id": "E67595",
+    "department": "IT",
+    "date": "2026-09-09",
+    "category": "Lodging",
+    "amount": 784.87,
+    "description": "Particular hair truth hold simple quickly appear piece free form."
+  },
+  {
+    "claim_id": "RC-2026-0043",
+    "employee_name": "Cameron Caldwell",
+    "employee_id": "E83920",
+    "department": "IT",
+    "date": "2026-08-11",
+    "category": "Travel",
+    "amount": 1631.17,
+    "description": "Record short cold parent security boy standard who blue.",
+    "_duplicate_of": 43
+  },
+  {
+    "claim_id": "RC-2026-0080",
+    "employee_name": "Amber Cook",
+    "employee_id": null,
+    "department": "Operations",
+    "date": "2026-10-05",
+    "category": "Training",
+    "amount": 32.26,
+    "description": "Day stop never only spend do similar small other everyone.",
+    "_duplicate_of": 80
+  },
+  {
+    "claim_id": "RC-2026-0041",
+    "employee_name": "Mary Miller",
+    "employee_id": "E66179",
+    "department": "Finance",
+    "date": "2026-08-03",
+    "category": "Lodging",
+    "amount": 52.55,
+    "description": "Consider employee force lawyer front they everything week instead.",
+    "_duplicate_of": 41
+  },
+  {
+    "claim_id": "RC-2026-0085",
+    "employee_name": "Elizabeth Wagner",
+    "employee_id": "E66387",
+    "department": "Operations",
+    "date": "2026-07-30",
+    "category": "Training",
+    "amount": 1352.82,
+    "description": "Table prepare shoulder result Democrat.",
+    "_duplicate_of": 85
+  },
+  {
+    "claim_id": "RC-2026-0016",
+    "employee_name": "Maria Brown",
+    "employee_id": "E54473",
+    "department": "IT",
+    "date": "2026-10-06",
+    "category": "Meals",
+    "amount": 840.13,
+    "description": "Eat couple large instead everything.",
+    "_duplicate_of": 16
+  }
+]
