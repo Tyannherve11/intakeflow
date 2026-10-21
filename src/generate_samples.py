@@ -24,10 +24,10 @@ def make_claim(i: int) -> dict:
         "claim_id": f"RC-2026-{i:04d}",
         "employee_name": fake.name(),
         "employee_id": f"E{fake.random_int(10000, 99999)}",
-        "department": random.choice(DEPARTMENTS),
+        "department": random.choice(DEPARTMENTS),  # nosec B311 - synthetic test data, seeded for reproducibility
         "date": fake.date_between(start_date="-90d", end_date="today").isoformat(),
-        "category": random.choice(CATEGORIES),
-        "amount": round(random.uniform(15, 1800), 2),
+        "category": random.choice(CATEGORIES),  # nosec B311 - synthetic test data, seeded for reproducibility
+        "amount": round(random.uniform(15, 1800), 2),  # nosec B311 - synthetic test data, seeded for reproducibility
         "description": fake.sentence(nb_words=8),
     }
 
@@ -56,13 +56,13 @@ def main(n: int = 100) -> None:
     for i in range(1, n + 1):
         claim = make_claim(i)
         # ~10 % de dossiers volontairement incomplets
-        if random.random() < 0.10:
-            claim[random.choice(REQUIRED)] = None
+        if random.random() < 0.10:  # nosec B311 - synthetic test data, seeded for reproducibility
+            claim[random.choice(REQUIRED)] = None  # nosec B311 - synthetic test data, seeded for reproducibility
         write_pdf(claim, OUT / f"claim_{i:04d}.pdf")
         truth.append(claim)
 
     # 5 doublons exacts (même contenu, autre nom de fichier)
-    for k, src in enumerate(random.sample(range(1, n + 1), 5), start=1):
+    for k, src in enumerate(random.sample(range(1, n + 1), 5), start=1):  # nosec B311 - synthetic test data, seeded for reproducibility
         dup = OUT / f"claim_{n + k:04d}.pdf"
         shutil.copy(OUT / f"claim_{src:04d}.pdf", dup)
         truth.append({**truth[src - 1], "_duplicate_of": src})
