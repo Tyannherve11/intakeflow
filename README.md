@@ -27,6 +27,10 @@ flowchart LR
 | Dashboard | Metabase | Read-only view of results |
 | CI | GitHub Actions | pytest, Bandit, pip-audit, Trivy |
 
+## Dashboard
+
+![IntakeFlow dashboard](docs/dashboard.png)
+
 ## Validation rules
 
 A document is classified as `valid`, `rejected` or `duplicate`.
@@ -126,3 +130,7 @@ Early runs took about 260 s for the validation script. Measuring each connection
 
 
 
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
